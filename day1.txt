@@ -1,0 +1,2 @@
+-분산버전관리시스템,파이썬 소개
+-git 명령어 (init,add,commit,config), 리눅스 명령어(ls,ls -a)
