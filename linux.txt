@@ -2,3 +2,4 @@ ls (-a):폴더 보기(숨김파일 보기 옵션)
 cd 폴더명:지정 폴더로 이동(cd ..:현재 폴더 상위 폴더로 이동)
 cat 파일:텍스트 파일 보기 명령
 touch 파일명:파일이 새 파일이면 빈 파일 생성
+echo "print('Hello World')">>hello.py:"print('Hello World')"을 가진 hello.py 생성
