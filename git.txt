@@ -8,3 +8,5 @@ checkout
 config --list :설정된 파일 목록 보기
 git clone https://github.com/yjhoo98/Test.git .:현재 위치에 원격 레퍼지토리 복사
 push(-u origin branch name):업로드
+fetch
+pull
