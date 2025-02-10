@@ -1,7 +1,10 @@
-init
+init:
 status
 log
 config (이메일,유저명 등록.1회만 하면됨)
 add
 commit (-m)
 checkout
+config --list :설정된 파일 목록 보기
+git clone https://github.com/yjhoo98/Test.git .:현재 위치에 원격 레퍼지토리 복사
+push(-u origin branch name):업로드
