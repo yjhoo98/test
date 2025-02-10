@@ -1,3 +1,4 @@
 -분산버전관리시스템,파이썬 소개
--git 명령어 (init,add,commit,config), 리눅스 명령어(ls,ls -a)
+-git 명령어 (init,add,commit,config), 리눅스 명령어(ls,ls -a) (별도 파일)
 -local/remote(git hub 등) 리포지토리 
+-파이썬 프로그래밍 환경 구촉
